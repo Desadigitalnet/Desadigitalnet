@@ -1,0 +1,190 @@
+<img src="https://i.postimg.cc/RV8PkDNF/11-49-12-images.jpg"width="100%"height="auto"></br>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {font-family: Arial;}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 0px solid #ccc;
+  background-color: #fff;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: #fff;
+  float: left;
+  border-radius: 5px;border:1px solid #7a7a7a;
+  outline: none;
+  cursor: pointer;width:48%;
+  padding: 14px 25px;margin:3px;
+  transition: 0.3s;
+  font-size: 14px;
+}/* Change background color of buttons on hover * Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #f1f1f1;border:1px solid #FF6E00;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 0px solid #ccc;
+  border-top: none;
+}
+</style>
+</head>
+<body>
+
+
+<div class="tab">
+  <button class="tablinks" onclick="openCity(event, '1')" id="defaultOpen">5 Diamond</button>
+  <button class="tablinks" onclick="openCity(event, '2')">12 Diamond</button> <button class="tablinks" onclick="openCity(event, '3')">28 Diamond</button><button class="tablinks" onclick="openCity(event, '4')" id="defaultOpen">36 Diamond</button>
+  <button class="tablinks" onclick="openCity(event, '5')">59 Diamond</button> <button class="tablinks" onclick="openCity(event, '6')">74 Diamond</button><button class="tablinks" onclick="openCity(event, '7')" id="defaultOpen">85 Diamond</button>
+  <button class="tablinks" onclick="openCity(event, '8')">170 Diamond</button> <button class="tablinks" onclick="openCity(event, '9')">185 Diamond</button><button class="tablinks" onclick="openCity(event, '10')" id="defaultOpen">222 Diamond</button>
+  <button class="tablinks" onclick="openCity(event, '11')">296 Diamond</button> <button class="tablinks" onclick="openCity(event, '12')">370 Diamond</button><button class="tablinks" onclick="openCity(event, '13')" id="defaultOpen">568 Diamond</button>
+  <button class="tablinks" onclick="openCity(event, '14')">875 Diamond</button> <button class="tablinks" onclick="openCity(event, '15')">1159 Diamond</button><button class="tablinks" onclick="openCity(event, '16')">2010 Diamond</button>
+</div>
+
+<div id="1" class="tabcontent">
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.button {
+  background-color: #4CAF50; /* Green */
+  float:right;border: 0px solid#aeaeae;
+  color: white;
+  padding: 10px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;font-weight:bold;
+  margin: 0px 0px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: #45C6B4; 
+  color: black; width: 30%;
+  border-radius: 3px;
+  border: 0px solid #008cba;
+}
+
+.button1:hover {
+  background-color: #17CE4B;
+  color:none;border-radius: 3px; border:0px solid #FF6A00;
+}
+</style>
+</head>
+<body><div id="1" class="tabcontent"></div><hr><font size="2em">Harga:</font>
+<tr><a href="https://webtestingsaya.blogspot.com/2021/09/ml5-adsbygoogle-window.html"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 1.700</b></font>
+</div>
+
+<div id="2" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://webtestingsaya.blogspot.com/2021/09/ml12-adsbygoogle-window.html"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 3.800</b></font>
+</div>
+
+<div id="3" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://webtestingsaya.blogspot.com/2021/09/ml28-adsbygoogle-window.html"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 8.500</b></font>
+</div>
+</div>
+<div id="4" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 10.600</b></font>
+</div>
+</div>
+<div id="5" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 18.900</b></font>
+</div>
+</div>
+<div id="6" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 21.200</b></font>
+</div>
+</div>
+<div id="7" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 24.200</b></font>
+</div>
+</div>
+<div id="8" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 48.250</b></font>
+</div>
+<div id="9" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 52.500</b></font>
+</div>
+<div id="10" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 62.950</b></font>
+
+</div>
+<div id="11" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 83.800</b></font>
+
+</div>
+<div id="12" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 104.750</b></font>
+
+</div>
+<div id="13" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 156.990</b></font>
+
+</div>
+<div id="14" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 240.700</b></font>
+
+</div>
+<div id="15" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 313.800</b></font>
+
+</div>
+<div id="16" class="tabcontent">
+<hr><font size="2em">Harga:</font>
+<tr><a href="https://wa.wizard.id/02d6db"><button class="button button1"><b>Selanjutnya</b></button></a></br><font color="red"size="4em"><b>Rp 522.900</b></font>
+
+</div>
+
+<script>
+function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   
+</body>
+</html> 
